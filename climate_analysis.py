@@ -1,3 +1,5 @@
+"""Functions for converting imperial units to metric"""
+
 just checking files  
 import sys
 import temp_conversion
